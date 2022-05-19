@@ -1,0 +1,14 @@
+package exercicio_66;
+import java.util.Scanner;
+public class exercicio_anovo {
+
+	public static void main(String[] args) {
+		for(int quadrado = 15; quadrado<=200; quadrado++) {
+			System.out.println(quadrado*quadrado);
+			System.out.println("numeros * ele mesmo ao quadrado");
+		}
+
+
+	}
+
+}
