@@ -1,0 +1,18 @@
+package exercicio_c;
+import java.util.Scanner;
+public class exercicio_c {
+
+	public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	for(int inteiro=0; inteiro<=100; inteiro++) {
+		int soma=0;
+		soma=soma+inteiro;
+		System.out.println(inteiro*soma);
+		
+		
+		
+
+	}
+
+}
+}
