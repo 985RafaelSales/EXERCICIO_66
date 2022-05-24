@@ -1,0 +1,19 @@
+package exercicio_e;
+import java.util.Scanner;
+
+public class exercicio {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("numeros impares de 1 até 20 ");
+		for(int impares=0; impares<=20; impares++) {
+		
+		if(impares%2==1) {
+			System.out.println( impares);
+			
+		}
+
+	}
+
+}
+}
