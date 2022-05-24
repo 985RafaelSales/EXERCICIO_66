@@ -1,0 +1,33 @@
+package exercicio_d;
+import java.util.Scanner;
+public class exercicio_d {
+
+	public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	int acum=0;
+	for(int pares=0; pares<=500; pares++) {
+		
+		
+		
+		if(pares%2==0) {
+			acum=acum+pares;
+			System.out.println("numeros pares"+pares);
+			
+			}
+		
+
+			
+			
+			
+
+		}
+
+	System.out.println("total numeros dos numeros pares"+acum);
+		
+		
+		
+		
+
+	}
+
+}
