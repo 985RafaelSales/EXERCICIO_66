@@ -1,0 +1,23 @@
+package exercicio_f;
+import java.util.Scanner;
+public class exercicio_f {
+
+	public static void main(String[] args) {
+	Scanner sc=new Scanner(System.in);
+	int media=0;
+	for(int div=1; div<200; div++) {
+		
+		
+		if(div%4==1) {
+			System.out.println(" numeros divisiveis por quatro " + div);
+	}
+		
+		
+	
+	
+
+	}
+
+
+}
+}
